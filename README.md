@@ -65,3 +65,8 @@ django_bootcamp/
         urls.py
         wsgi.py
 ```
+Then
+```bash
+cd Django_Bootcamp
+python manage.py runserver
+```
