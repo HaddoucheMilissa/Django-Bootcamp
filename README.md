@@ -50,7 +50,18 @@ pip install django
 ```bash
 python -m django --version
 ```
-Finally
+## 3. Create a Django Project
 ```bash
 python -m django startproject django_bootcamp
+```
+This will create a new directory called django_bootcamp with the following structure:
+
+```markdown
+django_bootcamp/
+    manage.py
+    django_bootcamp/
+        __init__.py
+        settings.py
+        urls.py
+        wsgi.py
 ```
